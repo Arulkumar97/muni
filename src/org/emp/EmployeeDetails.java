@@ -29,9 +29,13 @@ public class EmployeeDetails {
 		c.empAddress();
 		System.out.println("muni");
 		System.out.println("arul");
+		
+		System.out.println("gokul");
+		System.out.println("David");
+
+		
 	}
 	
-
 	}
 
 
