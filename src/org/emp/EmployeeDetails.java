@@ -27,6 +27,11 @@ public class EmployeeDetails {
 		c.empPhone();
 		c.empEmail();
 		c.empAddress();
+		System.out.println("muni");
+		System.out.println("arul");
+	}
+	
+
 	}
 
-}
+
